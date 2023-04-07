@@ -223,25 +223,25 @@
     "workshops": ["AUTOCAD"],
     "dates": ["12/03/2023"]
   },
-  "R23-UNTCM": {
+  "R23-PASDV": {
     "name": "Aswan KS",
     "college": "ST THOMAS COLLEGE OF ENGINEERING CHENGANNUR",
     "workshops": ["ETHICAL HACKING"],
     "dates": ["12/03/2023"]
   },
-  "R23-XLZWZ": {
+  "R23-PASDY": {
     "name": "Febin Jacob Thomas",
     "college": "ST THOMAS COLLEGE OF ENGINEERING CHENGANNUR",
     "workshops": ["ETHICAL HACKING"],
     "dates": ["12/03/2023"]
   },
-  "R23-WLTQJ": {
+  "R23-PASDG": {
   "name": "Karthik Udayan",
     "college": "ST THOMAS COLLEGE OF ENGINEERING CHENGANNUR",
     "workshops": ["ETHICAL HACKING"],
     "dates": ["12/03/2023"]
   },
-  "R23-NOHQJ": {
+  "R23-PASDW": {
   "name": "Godly Mathew Chacko",
     "college": "ST THOMAS COLLEGE OF ENGINEERING CHENGANNUR",
     "workshops": ["ETHICAL HACKING"],
@@ -622,6 +622,12 @@
   "R23-RQUKJ": {
     "name": "ANJIMA.A",
     "college": "VKCET  CHAVARCODE PARIPPALLY TVM",
+    "workshops": ["ROBOTICS"],
+    "dates": ["11/03/2023"]
+  },
+  "R23-RQTYU": {
+    "name": "AMAL SHAJI",
+    "college": "MUSALIAR COLLEGE OF ENGINEERING AND TECHNOLOGIES PATHANAMTHITTA",
     "workshops": ["ROBOTICS"],
     "dates": ["11/03/2023"]
   },
